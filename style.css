@@ -9,6 +9,10 @@ html{
     font-family: "Poppins", sans-serif;
 }
 
+body{
+    background-color: hsl(0, 0%, 98%);
+}
+
 .container {
     display: flex;
     flex-wrap: wrap;
